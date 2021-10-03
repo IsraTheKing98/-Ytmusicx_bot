@@ -34,7 +34,7 @@ Si no hay miniaturas personalizadas disponibles, el bot colocará las miniaturas
     #
     #
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
-    FINISHED_PROGRESS_STR = "◼️"y
+    FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
     CHECKING_LINK = "⏳ Espere por favor... ⏳"
     DOWNLOAD_START = "Descargando ... Por favor espere !"
